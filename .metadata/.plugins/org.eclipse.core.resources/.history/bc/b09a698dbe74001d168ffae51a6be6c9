@@ -1,8 +1,0 @@
-package com.n2s;
-
-public class Contact {
-	private int phoneid;
-	private String phonenumber;
-	
-	
-}

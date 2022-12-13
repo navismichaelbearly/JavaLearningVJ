@@ -1,6 +1,0 @@
-package com.n2s;
-
-public class User {
-	private int userid;
-	private int usernam;
-}
