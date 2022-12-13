@@ -1,0 +1,5 @@
+package com.n2s.SpringAutowired;
+
+public class Tea {
+
+}

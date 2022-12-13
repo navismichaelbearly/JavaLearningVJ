@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.n2s.User.phonenumbers&apos; in &apos;com.n2s.User&apos;&#x0D;&#x0A;- Original project: &apos;HibCollMapping&apos;&#x0D;&#x0A;- Original element: &apos;com.n2s.User.phonenumbers&apos;&#x0D;&#x0A;- Getter method name: &apos;getPhonenumbers&apos;&#x0D;&#x0A;- Setter method name: &apos;setPhonenumbers&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;phonenumbers&apos;" flags="589830" getter="getPhonenumbers" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;com.n2s{User.java[User^phonenumbers" insertion="5" setter="setPhonenumbers" stamp="1670259989055" version="1.0" visibility="1"/>
+</session>

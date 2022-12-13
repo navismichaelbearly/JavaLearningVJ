@@ -1,0 +1,16 @@
+package com.n2s.SpringCore1;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        Refreshment r = new Coffee();
+        r.drink();
+        //Coffee c = new Coffee();
+        //c.drink();
+    }
+}
