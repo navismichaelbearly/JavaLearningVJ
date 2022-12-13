@@ -1,7 +1,0 @@
-package com.n2s.AnnConfig;
-
-public class AppConfig {
-	public Coffee getCoffee() {
-		return new Coffee();
-	}
-}

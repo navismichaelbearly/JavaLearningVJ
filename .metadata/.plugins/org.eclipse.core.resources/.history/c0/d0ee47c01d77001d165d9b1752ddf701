@@ -1,6 +1,0 @@
-package com.n2s.SpringCore1;
-
-public class Brand {
-	private String name;
-	private int price;
-}

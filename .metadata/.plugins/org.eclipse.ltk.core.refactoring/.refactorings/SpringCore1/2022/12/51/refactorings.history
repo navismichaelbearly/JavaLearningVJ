@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy 3 elements to &apos;AnnConfig/src/main/java/com.n2s.AnnConfig&apos;&#x0D;&#x0A;- Original project: &apos;SpringCore1&apos;&#x0D;&#x0A;- Destination element: &apos;AnnConfig/src/main/java/com.n2s.AnnConfig&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.n2s.SpringCore1.Tea.java&#x0D;&#x0A;     com.n2s.SpringCore1.Coffee.java&#x0D;&#x0A;     com.n2s.SpringCore1.Refreshment.java" description="Copy compilation units" destination="=AnnConfig/src\/main\/java&lt;com.n2s.AnnConfig" element1="/src\/main\/java&lt;com.n2s.SpringCore1{Tea.java" element2="/src\/main\/java&lt;com.n2s.SpringCore1{Coffee.java" element3="/src\/main\/java&lt;com.n2s.SpringCore1{Refreshment.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1670951353582" units="3" version="1.0"/>
-</session>
